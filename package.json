@@ -1,0 +1,30 @@
+{
+  "name": "aws-iot-button",
+  "version": "1.0.0",
+  "description": "Using the AWS IOT button for various fun",
+  "main": "request_handler.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongodb": "^2.2.15",
+    "mongoose": "^4.5.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whrobbins/aws-iot-button.git"
+  },
+  "keywords": [
+    "aws",
+    "iot",
+    "button"
+  ],
+  "author": "whrobbins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whrobbins/aws-iot-button/issues"
+  },
+  "homepage": "https://github.com/whrobbins/aws-iot-button#readme"
+}
